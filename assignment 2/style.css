@@ -1,0 +1,25 @@
+h1{
+    background-color: #98c1d9;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 100%;
+
+
+}
+main div{
+    font-family: 'Libre Baskerville', serif;
+    background-color: #48cae4;
+    border-bottom: 1px solid #1d3557;
+}
+.a{
+    font-size: 2rem;
+    position: sticky;
+    top: 0;
+    border: 1px solid #023e8a;
+    background-color: #2a9d8f ;
+}
+#a{
+    font-size: 3rem;
+    color: #6d6875;
+}
